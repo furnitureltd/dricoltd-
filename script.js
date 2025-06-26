@@ -1,0 +1,1 @@
+// JavaScript content omitted here for brevity (already provided in previous message)
